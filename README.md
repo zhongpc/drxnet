@@ -34,13 +34,13 @@ python setup.py install
 
 ## Examples
 
-**Due to the high value of the DRX test dataset and the universal models**, the pretrained weights will not be released at this moment. We provide an example script for DRXNet training using the initial ten cycles of Li1.2Mn0.4Ti0.4O2.0 (LMTO) DRX (see `./examples/train_example/`, simply run `python train_LMTO.py`).
+**Due to the high value of the DRX test dataset and the universal models**, we apologize that the pretrained weights will not be released at this moment. We provided an example script for DRXNet training using the initial ten cycles of Li1.2Mn0.4Ti0.4O2.0 (LMTO) (see `./examples/train_example/`, simply run `python train_LMTO.py`).
 
 The model and the training scheme are highly expandable to other systems, such as element-doping in NCM materials, high-entropy Na-ion cathode, etc. The practitioners can customize their own electrochemical dataset and parameterize the model to make predictions.
 
 
 
-These examples require the pretrained model, we apologize that we are not able to release the DRX test dataset and models now.
+The following examples require the pretrained model, we apologize that we are not able to release the DRX test dataset and models now.
 
 (1) Discharge capacity predictions in Li-Mn-O-F chemical space `./examples/[1]-predict_LMOF_chemical_space.ipynb
 `
