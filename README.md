@@ -1,11 +1,12 @@
 # DRXNet
+
+<img src='/git-drxnet.png' class="center" width="99%">
  
 A Python package for learning representations of battery discharge voltage profiles across diverse compositions in disordered rocksalt cathodes (DRX).
 
 Preprint at: [https://arxiv.org/abs/2304.04986](https://arxiv.org/abs/2304.04986) 
 
 
-<img src='/git-drxnet.png' class="center" width="99%">
 
 
 **Inputs**:
