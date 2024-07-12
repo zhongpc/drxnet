@@ -44,7 +44,7 @@ The model and the training scheme are highly expandable to other systems, such a
 
 
 
-The following examples require the pretrained model, we apologize that we are not able to release the DRX test dataset and models now.
+The following examples require the pretrained model:
 
 (1) Discharge capacity predictions in Li-Mn-O-F chemical space `./examples/[1]-predict_LMOF_chemical_space.ipynb
 `
